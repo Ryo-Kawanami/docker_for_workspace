@@ -1,0 +1,12 @@
+opencv-python-headless>=3.3,<4.0
+requests
+Pillow
+six
+scipy
+networkx
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.7.0+cu110
+torchvision==0.8.1+cu110
+matplotlib
+seaborn
+Cython
